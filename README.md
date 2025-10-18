@@ -9,6 +9,9 @@ Name	Task	Tool Used
 Alice (Leader)	Task 2 – Deep Learning (MNIST CNN + Streamlit Deployment)	TensorFlow / Keras
 Mercy & Angel	Task 1 – Classical ML (Iris Species Prediction)	Scikit-learn
 Westley	Task 3 – NLP (NER + Sentiment Analysis)	spaCy
+
+
+
 📂 Folder Structure
 AI_Tools_Assignment_Group3/
 │
@@ -35,6 +38,7 @@ AI_Tools_Assignment_Group3/
 ├── requirements.txt
 └── README.md
 
+
 ⚙️ How to Run
 
 Clone this repo:
@@ -53,9 +57,6 @@ Open notebooks in Jupyter to view results:
 jupyter notebook
 
 
-To launch the bonus Streamlit app:
-
-streamlit run app.py
 
 🧩 Assignment Overview
 Part	Description	Tool
